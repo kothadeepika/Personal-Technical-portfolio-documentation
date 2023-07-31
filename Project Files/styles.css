@@ -1,1 +1,52 @@
+/* Existing styles */
+
+/* Additional styles */
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+main {
+  background-color: #f9f9f9;
+  padding: 2rem;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h2 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 0.5rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+footer {
+  background-color: #333;
+  color: #ffffff;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+/* Additional styles for links */
+a {
+  color: #ff8800;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 
